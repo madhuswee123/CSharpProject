@@ -5,9 +5,9 @@ VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{5138D001-1CC5-4462-9A04-9E3446AB5CDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalProgram", "..\ConditionalProgram\ConditionalProgram\ConditionalProgram.csproj", "{24E9CDD6-75D2-42E3-B5EA-C862A3D6E7E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalProgram", "ConditionalProgram\ConditionalProgram\ConditionalProgram.csproj", "{24E9CDD6-75D2-42E3-B5EA-C862A3D6E7E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "..\Factorial\Factorial\Factorial.csproj", "{337DEB0B-46A0-472E-813C-98BC29EA3BEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial\Factorial.csproj", "{337DEB0B-46A0-472E-813C-98BC29EA3BEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

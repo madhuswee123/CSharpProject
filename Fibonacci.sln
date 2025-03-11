@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalProgram", "Condi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial\Factorial.csproj", "{337DEB0B-46A0-472E-813C-98BC29EA3BEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPsProject", "OOPsProject\OOPsProject.csproj", "{4B1CA3B6-C5FF-4584-8A08-0CABCA1F1D03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{337DEB0B-46A0-472E-813C-98BC29EA3BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{337DEB0B-46A0-472E-813C-98BC29EA3BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{337DEB0B-46A0-472E-813C-98BC29EA3BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B1CA3B6-C5FF-4584-8A08-0CABCA1F1D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1CA3B6-C5FF-4584-8A08-0CABCA1F1D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1CA3B6-C5FF-4584-8A08-0CABCA1F1D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1CA3B6-C5FF-4584-8A08-0CABCA1F1D03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
